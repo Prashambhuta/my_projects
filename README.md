@@ -1,4 +1,4 @@
-# Prasham's project
+# My project
 
 ## Data Analysis
-* Analysis of World Happiness Score
+1 Analysis of World Happiness Score
