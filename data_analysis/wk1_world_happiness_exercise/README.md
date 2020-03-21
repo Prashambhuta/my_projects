@@ -9,9 +9,10 @@ Downloaded from Kaggle, the dataset is modified and [linked here.](https://githu
 To find correlation coefficient (R) and (R<sup>2</sup>) between happiness score and other factors such as economy, health, family etc.
 
 ## Solution
-* Python based: [Jupyter Notebook](https://github.com/Prashambhuta/my_projects/blob/master/data_analysis/wk1_world_happiness_exercise/Prasham's_week1_Happiness_Exercise.ipynb) + [Colab](https://colab.research.google.com/drive/1bn7oXAwqrmHsoJo4fLrb5e8XORcXSy3K)
-    * packages used: pandas, numpy, matlibplot, seahorn
-
+* Python based: [Jupyter Notebook](https://github.com/Prashambhuta/my_projects/blob/master/data_analysis/wk1_world_happiness_exercise/happiness_score.ipynb) + [Colab](https://colab.research.google.com/drive/1bn7oXAwqrmHsoJo4fLrb5e8XORcXSy3K)
+    * packages used: 'pandas', 'numpy', 'matlibplot', 'seahorn'
+* R based: [Rmarkdown](/happiness_score.Rmd)
+    * packages used: 'tidyverse', 'R base-plot'
 ## Conclusion
 The following table will define the dependence of Happiness Score on various factors, where **( )** represents R<sup>2</sup>. 
 
