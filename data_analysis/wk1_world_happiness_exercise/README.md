@@ -10,9 +10,10 @@ To find correlation coefficient (R) and (R<sup>2</sup>) between happiness score 
 
 ## Solution
 * Python based: [Jupyter Notebook](https://github.com/Prashambhuta/my_projects/blob/master/data_analysis/wk1_world_happiness_exercise/happiness_score.ipynb) + [Colab](https://colab.research.google.com/drive/1bn7oXAwqrmHsoJo4fLrb5e8XORcXSy3K)
-    * packages used: 'pandas', 'numpy', 'matlibplot', 'seahorn'
-* R based: [Rmarkdown](/data_analysis/wk1_world_happiness_exercise/happiness_score.Rmd)
-    * packages used: 'tidyverse', 'R base-plot'
+    * packages used: `pandas`, `numpy`, `matlibplot`, `seahorn`
+* R based: [Rmarkdown](/data_analysis/wk1_world_happiness_exercise/happiness_score.Rmd) + [PDF genereated from it](/data_analysis/wk1_world_happiness_exercise/happiness_score.pdf)
+    * packages used: `tidyverse`, `dplyr`
+    * for pdf: `tinytex`, `knitr`
 ## Conclusion
 The following table will define the dependence of Happiness Score on various factors, where **( )** represents R<sup>2</sup>. 
 
