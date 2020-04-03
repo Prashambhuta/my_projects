@@ -17,7 +17,7 @@ To create a summary by analysing the factors available in the dataset
 
 ## Conclusion
 * City hotels are twiced as much booked as Resorts.
-![image](/images/image1.png)
+![image](images/image1.png)
 * There is a huge percentage of cancellation in City hotels, i.e. people are more inclined to cancel a booking at a City hotel than Resorts
 * 2016 was a high booking period, and the general preferences of the booking are -
   * Summer season
