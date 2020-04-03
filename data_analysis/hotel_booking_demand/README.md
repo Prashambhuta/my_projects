@@ -39,7 +39,7 @@ To create a summary by analysing the factors available in the dataset
 * Guests are not often repeated, which means either the experience is not good, or the segment has not been marketed yet.
 * Price graph shows that the spike is prices during the summer season, (May - August). The surge is prices of Resorts are quite high than that of City Hotels.
 
-[!image](images/image5.png)
+![image](images/image5.png)
 
 
 ### Future steps
