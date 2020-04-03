@@ -17,17 +17,29 @@ To create a summary by analysing the factors available in the dataset
 
 ## Conclusion
 * City hotels are twiced as much booked as Resorts.
+
+
 ![image](images/image1.png)
 * There is a huge percentage of cancellation in City hotels, i.e. people are more inclined to cancel a booking at a City hotel than Resorts
+
+![image](images/image2.png)
+
 * 2016 was a high booking period, and the general preferences of the booking are -
   * Summer season
   * and weekends
 
+  ![image](images/image3.png)
+
 * Types of visitors are mostly couples or individuals, with high number of bookings from Portugal, Uk, France, Germany, Spain
+
+![image](images/image4.png)
+
 * marget segments are mostly Online/Offline Travel Agents & Travel Operators
 * Most bookings do not have any sort of deposit, which can contribute to the high cancellation rate. 
 * Guests are not often repeated, which means either the experience is not good, or the segment has not been marketed yet.
 * Price graph shows that the spike is prices during the summer season, (May - August). The surge is prices of Resorts are quite high than that of City Hotels.
+
+[!image](images/image5.png)
 
 
 ### Future steps
