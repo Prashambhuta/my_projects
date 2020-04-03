@@ -7,7 +7,7 @@ To analyse the data for a hotel bookings, which shows
 * booking channels
 
 ## Data
-CSV is available in the dataset folder. [Link](/data_analysis/hotel_booking_demand/dataset/hotel_bookings.csv) 
+CSV is available in the dataset folder. [Link](dataset/hotel_bookings.csv) 
 
 ## Task
 To create a summary by analysing the factors available in the dataset
