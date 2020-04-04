@@ -44,5 +44,5 @@ To create a summary by analysing the factors available in the dataset
 
 ### Future steps
 
-* Find reasons for low repition of customers
+* Find reasons for low repitition of customers
 * Add minimum deposit to see if it affects the number of bookings and cancellation.
