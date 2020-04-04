@@ -5,7 +5,7 @@
 2. [Hotel Bookings Analysis](data_analysis/hotel_booking_demand)
 
 ## Web Apps
-1. Book Search & Review website
+1. [Book Search & Review website](web_apps/books_review)
 
 ## SQL_projects
 1. sql_practice1
