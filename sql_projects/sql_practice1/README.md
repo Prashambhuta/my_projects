@@ -58,16 +58,17 @@
     ```
 
     ```sql
-    desc orders;
+    desc person;
     ```
     ```sql
-    +----------+--------------+------+-----+---------+----------------+
-    | Field    | Type         | Null | Key | Default | Extra          |
-    +----------+--------------+------+-----+---------+----------------+
-    | OrderID  | int(11)      | NO   | PRI | NULL    | auto_increment |
-    | Item     | varchar(255) | YES  |     | NULL    |                |
-    | PersonID | int(11)      | YES  | MUL | NULL    |                |
-    +----------+--------------+------+-----+---------+----------------+
+    +-----------+--------------+------+-----+---------+----------------+
+    | Field     | Type         | Null | Key | Default | Extra          |
+    +-----------+--------------+------+-----+---------+----------------+
+    | PersonID  | int(11)      | NO   | PRI | NULL    | auto_increment |
+    | LastName  | varchar(255) | YES  |     | NULL    |                |
+    | FirstName | varchar(255) | YES  |     | NULL    |                |
+    | Age       | int(11)      | YES  |     | NULL    |                |
+    +-----------+--------------+------+-----+---------+----------------+
     ```
 
 * To insert values into table -
@@ -78,6 +79,10 @@
 
     ```sql
     insert into orders(Item, PersonID) VALUES ('Beets', 3), ('Pretzel', 1), ('Magic Kit', 2);
+    ```
+* To view data from table -
+    ```sql
+    SELECT * from table_name;
     ```
 
 * To add DEFAULT to columns -
