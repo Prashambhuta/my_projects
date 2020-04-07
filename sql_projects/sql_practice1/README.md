@@ -28,9 +28,13 @@
     CREATE table orders(
     OrderID int auto_increment primary key,
     item varchar(255),
-    Person_ID int,
-    foreign key(Person_ID) references person(PersonID));
+    PersonID int,
+    foreign key(PersonID) references person(PersonID));
     ```
+        
+    * Notice `foreign key(col_head) references table_name(col_head)`
+        * I.E. Column `PersonID` has a foreign relation with Column `PersonID` of table `person`.
+
 * To display tables in database -
     ```sql
     show tables;
