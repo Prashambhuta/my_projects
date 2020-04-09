@@ -4,4 +4,4 @@
 2. [Hotel Bookings Analysis](hotel_booking_demand)
 
 ## Other
-1. Covid-19 data analysis by [Yanchang Zhao](http://rdatamining.com)
+1. US murders across state filtered by their region. [Report](other/US-murders.pdf)
