@@ -4,4 +4,4 @@
 2. [Hotel Bookings Analysis](hotel_booking_demand)
 
 ## Other
-1. US murders across state filtered by their region. [Report](other/US-murders.pdf)
+1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
