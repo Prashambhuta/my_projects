@@ -31,14 +31,14 @@ sqlite> .dbinfo
 ```
 ## To access tables
 **To view list of tables**
-```sqlite
+```sql
 sqlite> .tables
 ```
 **To view column headers**
-```sqlite
+```sql
 sqlite> pragma table_info(Salaries);
 ```
-```sqlite
+```sql
 cid         name        type        notnull     dflt_value  pk        
 ----------  ----------  ----------  ----------  ----------  ----------
 0           Id          INTEGER     0                       1         
@@ -60,7 +60,7 @@ cid         name        type        notnull     dflt_value  pk
 ```sqlite
 sqlite> select * from Salaries where id BETWEEN 1 and 5;
 ```
-```sqlite
+```sql
 Id          EmployeeName    JobTitle                                        BasePay     OvertimePay  OtherPay    Benefits    TotalPay    TotalPayBenefits  Year        Notes       Agency         Status    
 ----------  --------------  ----------------------------------------------  ----------  -----------  ----------  ----------  ----------  ----------------  ----------  ----------  -------------  ----------
 1           NATHANIEL FORD  GENERAL MANAGER-METROPOLITAN TRANSIT AUTHORITY  167411.18   0            400184.25               567595.43   567595.43         2011                    San Francisco            
@@ -72,19 +72,19 @@ Id          EmployeeName    JobTitle                                        Base
 
 ## Min and Max of salaries
 **To get the max value of salary**
-```sqlite
+```sql
 sqlite> select Id, EmployeeName, BasePay, TotalPay, TotalPayBenefits from Salaries where TotalPay == (SELECT MAX(TotalPay) from Salaries);
 ```
-```sqlite
+```sql
 Id          EmployeeName    BasePay     TotalPay    TotalPayBenefits
 ----------  --------------  ----------  ----------  ----------------
 1           NATHANIEL FORD  167411.18   567595.43   567595.43      
 ```
 **To get the min value of salary**
-```sqlite
+```sql
 sqlite> select Id, EmployeeName, BasePay, TotalPay from Salaries where TotalPay == (SELECT MIN(TotalPay) from Salaries);
 ```
-```sqlite
+```sql
 Id          EmployeeName  BasePay     TotalPay  
 ----------  ------------  ----------  ----------
 148654      Joe Lopez     0           -618.13   
