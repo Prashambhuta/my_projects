@@ -91,3 +91,23 @@ Id          EmployeeName  BasePay     TotalPay
 ```
 
 ## Mean Salary
+**Average BasePay**
+```sql
+select avg(BasePay) from Salaries;
+```
+```sql
+avg(BasePay)   
+---------------
+66053.729288097
+```
+**Average TotalPay**
+```sql
+select avg(TotalPay) from Salaries;
+```
+```sql
+avg(TotalPay)  
+---------------
+74768.321971703
+```
+## Stdev 
+**No builtin function for sqlite**
