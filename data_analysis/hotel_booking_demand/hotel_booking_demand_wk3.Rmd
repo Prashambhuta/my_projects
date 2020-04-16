@@ -1,0 +1,144 @@
+---
+title: "Hotel Booking Pattern & Analysis"
+author: "Prasham Bhuta"
+date: "30/03/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Analysis of data received from Room Booking Platform
+
+Online platforms such as trivago, goibibo, makemytrip etc. are used for booking hotel rooms, here is a dataset of rooms booked from such platform.
+
+### Tasks
+
+* To understand the pattern of bookings, and the general trends followed by users.
+* Create a report, as being a part of the platform, for the marketing team.
+
+## Let's get started
+
+### Importing necessary libraries
+```{r, echo=TRUE, message=FALSE}
+library(tidyverse)
+```
+
+### Import data from the csv
+```{r}
+datas <- read.csv("dataset/hotel_bookings.csv")
+```
+
+### Get the str of the data
+```{r}
+str(datas)
+```
+
+### Understanding the columns
+
+The data looks clean enough, with proper column headers, as well
+
+* Hotel has two types:
+    * Resort hotel
+    * City hotel
+    
+* Is_cancelled:
+    * "1" if the booking is cancelled
+
+* lead_time
+    * No of days between booking and booked date
+
+* Arrival : year, month, week_number, day
+
+* Stay
+    * No of weekend nights
+    * No of week nights
+(because of price difference during the weekends)
+
+* No of people: adults, children, babies
+
+* Meal booked has 5 types
+    * BB - Bed & Breakfast
+    * FB - Full Board (Breakfast, Lunch & Dinner)
+    * HB - Half Board (Breakfast + 1 other (dinner or lunch, mostly dinner))
+    * SC - No Meal package
+    * Undefined - No Meal package
+
+* Country (self - explanatory)
+
+* market_segment (group of people who share common characteristic)
+
+* distribution_channel (intermediaries between users and hotel booking eg. websites, travel agents, tour operators)
+
+* is_repeated_guest (has previous booking)
+
+* previous_cancellations (has previously cancelled a booking)
+
+* reserved_room_type (type of room reserved)
+
+* assigned_room_type (type of room assigned, due to high volume this can differ from reserved_room_type)
+
+* booking_changes (no of times changes have been made to the booking)
+
+* deposit_type
+    * No Deposit 
+    * Non Refund - deposit of value equals total cost
+    * Refundable - value under the total cost of stay
+    
+* agent
+    * ID of travel agency that made the booking
+    
+* Company
+    * ID of the company responsible for booking or payment
+    
+* days_in_waiting_list (no of days before the booking was confirmed)
+
+* customer_type
+    * Contract
+    * Group
+    * Transient
+    * Transient-party
+    
+* adr (average daily rate)
+    * adr = (sum_of_all_expenses)/(total_nights_of_stay)
+    
+* required_car_parking_spaces
+
+* total_of_special_requests
+
+* reservation_status
+    * Canceled
+    * Check-Out
+    * No Show - Customer did not show up
+
+* reservation_status_date
+    * Date when the final changes to the entry was made.
+    
+### Calculating the NA, values
+```{r}
+colSums(is.na(datas))
+```
+There are no such columns with na values that need to be removed or edited
+
+### Hotel
+
+There are just two types of hotel, Resort & City, so a basic barplot would give the idea of the percentage of booking.
+
+```{r}
+counts <- prop.table(table(datas$hotel))
+barplot(counts, col = c('lightblue','lightgreen'), main = "Type of Hotel")
+```
+#### Analysis
+
+City hotels are twiced as much booked compared to Resort hotels, following reasons can be derived for that.
+* City hotels are better options for corporate bookings, and business purposes
+* Resort hotels can be a good option or larger parties.
+
+### Cancelled bookings
+
+To understand what percentage of bookings are cancelled.
+```{r}
+cancelled <- prop.table(table(datas$is_canceled))
+barplot(cancelled, main = "Percentage of bookings cancelled", names.arg = c("Not Cancelled", "Cancelled"), col = c("lightblue", "red"))
+```
