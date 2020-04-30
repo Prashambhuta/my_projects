@@ -1,4 +1,4 @@
-# # Heart Disease EDA
+# Heart Disease EDA
 ## Aim
 From the given dataset analyse the patterns of variable that are indicative of having heart problem
 
@@ -22,8 +22,10 @@ The required files can be found [here.](dataset/)
     * Chances of heart disease increase with age.
 
 * Sex vs Heart disease
+
 ![image](images/2.png)
-    * Males are more likely to be a victim of heart disease than females. Also males of ages as early as 40 years can be target of a heart disease
+      
+      * Males are more likely to be a victim of heart disease than females. Also males of ages as early as 40 years can be target of a heart disease
 
 * Chest pain vs Heart disease
     |target  |  0 |  1|
@@ -34,10 +36,13 @@ The required files can be found [here.](dataset/)
     |2   |     18 | 69
     |3   |      7| 16
     `chi^2 = (81.68642755194445, p-value = 1.3343043373050064e-17)`
+    
     * Chest pain are good indication of heart problem
 
 * ECG vs Heart disease
+
 ![IMAGE](images/3.png)
+
 p-value of 0.0066 indicate that ECG values is related to identification heart problem
 
 ## Conclusion
