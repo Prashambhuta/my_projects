@@ -1,10 +1,10 @@
 # My projects
 
 ## Data Analysis
-1. [Analysis of World Happiness Score](data_analysis/wk1_world_happiness_exercise)
-2. [Hotel Bookings Analysis](data_analysis/hotel_booking_demand)
-3. [Students performance](data_analysis/students_performance)
-4. [SF Salary](data_analysis/sf_salary)
+EDA using following tools
+* Python: `Matplotlib`, `Numpy`, `Pandas`, `Seaborn`
+* R: `Tidyverse`, `ggplot2`
+* Tools: `Google Colab`, `Rstudio + knitr`
 
 ## Web Apps
 1. [Book Search & Review website](web_apps/books_review)
