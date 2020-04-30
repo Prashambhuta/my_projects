@@ -1,6 +1,6 @@
 # My projects
 
-## Data Analysis
+## [Data Analysis](data_analysis)
 EDA using following tools
 * Python: `Matplotlib`, `Numpy`, `Pandas`, `Seaborn`
 * R: `Tidyverse`, `ggplot2`
