@@ -2,15 +2,13 @@
 title: "Hotel Booking Pattern & Analysis"
 author: "Prasham Bhuta"
 date: "30/03/2020"
-geometry: margin=2cm
 output:
   pdf_document: default
   html_document: default
 ---
 
 ```{r setup, include=FALSE}
-options(width = 80)
-knitr::opts_chunk$set(echo = TRUE, tidy.opts = list(width.cutoff=60), tidy = TRUE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Analysis of data received from Room Booking Platform
@@ -27,7 +25,6 @@ Online platforms such as trivago, goibibo, makemytrip etc. are used for booking 
 ### Importing necessary libraries
 ```{r, echo=TRUE, message=FALSE}
 library(tidyverse)
-library(ggplot2)
 ```
 
 ### Import data from the csv
@@ -36,7 +33,7 @@ datas <- read.csv("dataset/hotel_bookings.csv")
 ```
 
 ### Get the str of the data
-```{r list(width.cutoff=40), paged.print=TRUE, tidy.opts=list(width.cutoff=40)}
+```{r}
 str(datas)
 ```
 
@@ -126,7 +123,7 @@ colSums(is.na(datas))
 ```
 There are no such columns with na values that need to be removed or edited
 
-### Types of hotel
+### Hotel
 
 There are just two types of hotel, Resort & City, so a basic barplot would give the idea of the percentage of booking.
 
@@ -137,55 +134,16 @@ barplot(counts, col = c('lightblue','lightgreen'), main = "Type of Hotel")
 
 #### Analysis
 
-* City hotels are twiced as much booked compared to Resort hotels, following reasons can be derived for that.
+City hotels are twiced as much booked compared to Resort hotels, following reasons can be derived for that.
 
-    * City hotels are better options for corporate bookings, and business purposes
-    * Resort hotels can be a good option or larger parties.
+* City hotels are better options for corporate bookings, and business purposes
+
+* Resort hotels can be a good option or larger parties.
 
 ### Cancelled bookings
 
 To understand what percentage of bookings are cancelled.
-```{r fig.width=4, fig.height=4}
-cancelled <- prop.table(table(datas$is_canceled))
-barplot(cancelled, main = "Percentage of bookings cancelled", 
-        names.arg = c("Not Cancelled", "Cancelled"), col = c("lightblue", "red"))
-```
-
-#### Analysis
-
-* Around 40% of the bookings were cancelled.
-
-### Cancellation among types of hotel
-
-```{r cancel}
-p <- datas %>% ggplot(aes(x=is_canceled, fill=hotel))
-p <- p + geom_bar()
-p <-p + xlab("Is the booking cancelled? 0 = FALSE, 1 = TRUE") + ylab("No of cancellations") + ggtitle("Cancellation across different types of hotel")
-p
-```
-
-#### Analysis
-
-* City hotels are more likely to get cancelled in comparison to resorts.
-
-### Overview of Arrival Period
-
 ```{r}
-p <- datas %>% ggplot(aes(arrival_date_year, fill=hotel, label=hotel))
-p <- p +geom_bar(position = "dodge")
-p <- p + xlab("Year") + ylab("No of bookings") + ggtitle("Bookings per year, based on types of hotel") + scale_fill_discrete(name = "Type of Hotel")
-p
+cancelled <- prop.table(table(datas$is_canceled))
+barplot(cancelled, main = "Percentage of bookings cancelled", names.arg = c("Not Cancelled", "Cancelled"), col = c("lightblue", "red"))
 ```
-
-```{r, fig.width=9}
-datas$arrival_date_month <- factor(datas$arrival_date_month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"))
-p <- datas %>% ggplot(aes(arrival_date_month, fill=hotel, label=hotel))
-p <- p +geom_bar(position = "dodge")
-p <- p + xlab("Month") + ylab("No of bookings") + ggtitle("Bookings per month, based on types of hotel") + scale_fill_discrete(name = "Type of Hotel")
-p
-```
-
-
-#### Analysis
-* 2016 was a good year for hotels.
-* More number of hotels were booked during the summer season of `June, July and August`.
