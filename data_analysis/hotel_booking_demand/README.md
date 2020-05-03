@@ -13,7 +13,7 @@ CSV is available in the dataset folder. [Link](dataset/hotel_bookings.csv)
 To create a summary by analysing the factors available in the dataset
 
 ## Solution
-* [Jupyter Notebook](/data_analysis/hotel_booking_demand/Hotel_booking_demand_Exercise.ipynb) + [Colab](https://colab.research.google.com/drive/16gGFFHDmDO-VYj1eSLKsoW9jp0z214lH)
+* [Jupyter Notebook](/data_analysis/hotel_booking_demand/Hotel_booking_demand_Exercise.ipynb) + [Rmarkdown](hotel_booking_demand_wk3.Rmd) + [Colab](https://colab.research.google.com/drive/16gGFFHDmDO-VYj1eSLKsoW9jp0z214lH)
 
 ## Conclusion
 * City hotels are twiced as much booked as Resorts.

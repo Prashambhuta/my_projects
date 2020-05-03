@@ -2,7 +2,9 @@
 title: "Hotel Booking Pattern & Analysis"
 author: "Prasham Bhuta"
 date: "30/03/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -129,10 +131,13 @@ There are just two types of hotel, Resort & City, so a basic barplot would give 
 counts <- prop.table(table(datas$hotel))
 barplot(counts, col = c('lightblue','lightgreen'), main = "Type of Hotel")
 ```
+
 #### Analysis
 
 City hotels are twiced as much booked compared to Resort hotels, following reasons can be derived for that.
+
 * City hotels are better options for corporate bookings, and business purposes
+
 * Resort hotels can be a good option or larger parties.
 
 ### Cancelled bookings
