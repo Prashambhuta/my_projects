@@ -17,27 +17,35 @@ The data can be found here [placement.csv](dataset/placement.csv)
 
 ## Summary
 * Gender vs Salary
+
 ![image](images/1.png)
 
 * Scores in 12th grade vs salary
+
 ![image](images/2.png)
 
 * Scores in degree vs salary
+
 ![image](images/3.png)
 
 * Students placed based on the major in high school
+
 ![image](images/4.png)
 
 * Students placed based on the major in degree
+
 ![image](images/5.png)
 
 * Students placed based on specialisation
+
 ![image](images/6.png)
 
 * Students placed based on Work Experience
+
 ![image](images/7.png)
 
 * Correlational heatmap after converting all categorical factors to numerical using `Label Encoder`.
+
 ![image](images/8.png)
 
 ## Analysis
