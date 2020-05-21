@@ -17,6 +17,8 @@ The required files can be found [here.](dataset/)
 
     ![image](images/0.png)
 
+    * Percentage of low size apps with high rating(~4.5) is higher
+
 * Price vs Rating distribution
 
     ![image](images/1.png)
@@ -25,9 +27,13 @@ The required files can be found [here.](dataset/)
 
     ![image](images/3.png)
 
+    * All the listed category have 'Paid' apps, as well as 'Free' apps.
+
 * Comparison of Sentiments for Paid vs Free App
 
     ![image](images/4.png)
+
+    * Free apps have larger negative sentiment response.
 
 ## Conclusion
 
