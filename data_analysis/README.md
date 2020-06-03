@@ -7,6 +7,8 @@
 5. [EDA of heart disease](heart_disease)
 1. [EDA of campus recruitment](job_recruitment)
 1. [DC - EDA of play store apps](DC_play_store_apps)
+1. [EDA of titanic dataset in R](titanic/survival)
+1. [EDA of cereals dataset](cereal)
 
 ## Other
 1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
