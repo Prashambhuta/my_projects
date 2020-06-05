@@ -9,6 +9,7 @@
 1. [DC - EDA of play store apps](DC_play_store_apps)
 1. [EDA of titanic dataset in R](titanic/survival)
 1. [EDA of cereals dataset](cereal)
+1. [Quick EDA of climate change datas in 'dslabs' in R](climate_change)
 
 ## Other
 1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
