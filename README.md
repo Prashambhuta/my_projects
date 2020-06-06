@@ -6,6 +6,10 @@ EDA using following tools
 * R: `Tidyverse`, `ggplot2`
 * Tools: `Google Colab`, `Rstudio + knitr`
 
+## [Data Modelling](data_models)
+Constructing models using regression techniques and following tools
+* Python: `scikit-learn (skleanr)`, `statsmodel`
+
 ## Web Apps
 1. [Book Search & Review website](web_apps/books_review)
 
