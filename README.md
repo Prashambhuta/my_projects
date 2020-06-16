@@ -1,5 +1,7 @@
 # My projects
 
+## [Data Scraping](data_scraping)
+Scraping using python library `scrapy`.
 ## [Data Analysis](data_analysis)
 EDA using following tools
 * Python: `Matplotlib`, `Numpy`, `Pandas`, `Seaborn`
