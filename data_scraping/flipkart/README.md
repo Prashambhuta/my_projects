@@ -1,4 +1,27 @@
 # Scraping Flipkart section of men's t-shirt
+## Installation
+To run the project perform the following steps.
+1. Copy the repo and install the modules required by typing:
+    ```bash
+    pip install -r requirements.txt
+    ```
+2. Open `settings.py` in `/flipkart_scrapper/flipkart_scrapper` folder, and enter proper values of variables 
+    ```py
+    MONGO_URI = 'mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]' # Enter mongodb uri
+
+    MONGO_DATABASE = 'database_name' # Enter db name
+    ```
+
+    * If using local database, 
+        * enable the `# LOCAL CONNECTION` code from `pipelines.py` and 
+        * disable the `# REMOTE CONNECTION` code from `pipelines.py`
+3. In terminal go to folder `/flipkart_scrapper/flipkart_scrapper` and run the spider by typing:
+    ```bash
+    scrapy crawl flipkart_men_tshirt
+    ```
+
+3. Output will be in the `/dump/output` folder, by the name `men_tshirt.csv`
+
 
 ## Intro
 * A web scraper that scrapes data from a particular section of Flipkart, saves it in .csv format and loads the data to a remote MongoDB collection.
@@ -11,7 +34,7 @@ https://www.flipkart.com/men/tshirts/pr?sid=2oq%2Cs9b%2Cj9y&otracker=nmenu_sub_M
 ## Project structure
 
 * assignment-2
-    * /dump - contains all the response.html, resposne.json, trial_outputs
+    * /dump - contains all the response.html, resposne.json, trial_outputs.
         * [output](dump/output) - contains the output, [men_tshirt.csv](dump/output/men_tshirt.csv)
     * [/flipkart_scrapper/flipkart_scrapper](/flipkart_scrapper/flipkart_scrapper) - scrapy project to scrap the website.
     Follows regular scrapy project structure.
@@ -50,8 +73,6 @@ Following steps underline the approach to the solution.
 
 ### Breakdown
 * The breakdown of the task can be seen below, with majority of time taken by setting up, scraping the first page, and reading the documentation/tutorial.
-
-    ![image](images/time_bd.png)
 
 ## Challenges
 * Unable to scrap image links.

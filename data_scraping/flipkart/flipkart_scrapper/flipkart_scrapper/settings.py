@@ -69,9 +69,9 @@ ITEM_PIPELINES = {
 }
 
 # Database credentials
-MONGO_URI = 'mongodb+srv://new_user:mongoDB123@greendeck-1-hnozk.' \
-            'mongodb.net/greendeck-1?retryWrites=true&w=majority'
-MONGO_DATABASE = 'greendeck-1'
+MONGO_URI = 'mongodb://[username:password@]host1[:port1][,...hostN[:portN]]' \
+            '[/[defaultauthdb][?options]]'
+MONGO_DATABASE = 'database_name'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
