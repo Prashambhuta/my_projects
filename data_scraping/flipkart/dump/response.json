@@ -1,0 +1,2274 @@
+{
+    "CACHE_INVALIDATION_TTL": "16387018627",
+    "REQUEST": null,
+    "REQUEST-ID": "6027d182-ecaf-4d7c-ba13-7552a7bf0413",
+    "RESPONSE": {
+        "productSwatchDetails": {
+            "TSHFDNCN5VTZCQZU": {
+                "type": "ProductSwatchValue",
+                "attributeOptions": [
+                    [
+                        {
+                            "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/u/j/z/m-fc4118-fastcolors-original-imafnh2chgr45mhw.jpeg?q={@quality}",
+                            "value": "Red Blue"
+                        },
+                        {
+                            "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                            "value": "White Blue"
+                        },
+                        {
+                            "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                            "value": "White Maroon"
+                        },
+                        {
+                            "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cwgzattht.jpeg?q={@quality}",
+                            "value": "Yellow Blue"
+                        }
+                    ],
+                    [
+                        {
+                            "value": "S"
+                        },
+                        {
+                            "value": "M"
+                        },
+                        {
+                            "value": "L"
+                        },
+                        {
+                            "value": "XL"
+                        },
+                        {
+                            "value": "XXL"
+                        }
+                    ]
+                ],
+                "attributes": [
+                    {
+                        "compulsory": false,
+                        "dropNonWhitelistedOptions": false,
+                        "id": "color",
+                        "queryInfo": {
+                            "key": "sattr[]",
+                            "operation": "APPEND",
+                            "value": "color"
+                        },
+                        "selected": true,
+                        "showOnBrowsePage": true,
+                        "singleAttributeSwatchEnabled": true,
+                        "text": "Color",
+                        "type": "IMAGE",
+                        "viewAllLinkText": "More Choices",
+                        "viewOnly": false,
+                        "viewType": "BOX"
+                    },
+                    {
+                        "compulsory": true,
+                        "dropNonWhitelistedOptions": false,
+                        "id": "size",
+                        "queryInfo": {
+                            "key": "sattr[]",
+                            "operation": "APPEND",
+                            "value": "size"
+                        },
+                        "selected": false,
+                        "showOnBrowsePage": true,
+                        "singleAttributeSwatchEnabled": false,
+                        "sizeChartInfo": {
+                            "displayText": "Size Chart",
+                            "url": "https://www.flipkart.com/rv/sizechart?pid=TSHFDNCN5VTZCQZU"
+                        },
+                        "text": "Size",
+                        "type": "TEXT",
+                        "viewAllLinkText": "More Choices",
+                        "viewOnly": true,
+                        "viewType": "BOX"
+                    }
+                ],
+                "products": {
+                    "TSHFDNCNGG7HZB6Z": {
+                        "attributeIndexes": [
+                            2,
+                            1
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fn4ez2ft4x.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k3dc7m80/t-shirt/6/a/y/xxl-4071-xxl-1-fastcolors-original-imafgzvgqsejyfug.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCNGG7HZB6ZUS34LR",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": {
+                                "type": "FormattedMessageValue",
+                                "data": [
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "Or Pay "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "₹380 + "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedImageData",
+                                        "value": {
+                                            "type": "ImageValue",
+                                            "aspectRatio": "1:1",
+                                            "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/18/07/2019/4aebbd99-7478-411e-aced-265e7722d18d.png?q={@quality}",
+                                            "height": 0,
+                                            "width": 0
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": " 21"
+                                        }
+                                    }
+                                ]
+                            },
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFDNCNGG7HZB6Z&lid=LSTTSHFDNCNGG7HZB6ZUS34LR&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCNGG7HZB6Z&lid=LSTTSHFDNCNGG7HZB6ZUS34LR",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFDNCNGG7HZB6Z",
+                        "titles": {
+                            "coSubtitle": "Size: M",
+                            "newTitle": "Striped Men Round Neck White, Maroon T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Maroon T-Shirt"
+                        }
+                    },
+                    "TSHFDNCNAT6GSXPE": {
+                        "attributeIndexes": [
+                            2,
+                            0
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnsuv6yy8g.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fnkykdjdqj.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fn4ez2ft4x.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k3dc7m80/t-shirt/6/a/y/xxl-4071-xxl-1-fastcolors-original-imafgzvgqsejyfug.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCNAT6GSXPEXCC2KM",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFDNCNAT6GSXPE&lid=LSTTSHFDNCNAT6GSXPEXCC2KM&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCNAT6GSXPE&lid=LSTTSHFDNCNAT6GSXPEXCC2KM",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFDNCNAT6GSXPE",
+                        "titles": {
+                            "coSubtitle": "Size: S",
+                            "newTitle": "Striped Men Round Neck White, Maroon T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Maroon T-Shirt"
+                        }
+                    },
+                    "TSHFJRMYK59D4FUH": {
+                        "attributeIndexes": [
+                            2,
+                            3
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnsuv6yy8g.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fnkykdjdqj.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fn4ez2ft4x.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k3dc7m80/t-shirt/6/a/y/xxl-4071-xxl-1-fastcolors-original-imafgzvgqsejyfug.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJRMYK59D4FUHRXTLBD",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFJRMYK59D4FUH&lid=LSTTSHFJRMYK59D4FUHRXTLBD&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJRMYK59D4FUH&lid=LSTTSHFJRMYK59D4FUHRXTLBD",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFJRMYK59D4FUH",
+                        "titles": {
+                            "coSubtitle": "Size: XL",
+                            "newTitle": "Striped Men Round Neck White, Maroon T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Maroon T-Shirt"
+                        }
+                    },
+                    "TSHFDNCN5VTZCQZU": {
+                        "attributeIndexes": [
+                            1,
+                            1
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/u/t/p/l-4070-l-fastcolors-original-imafnyyhnvgyvbwu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh5hzuzuns.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhmerhfvyu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhv7gzaqd6.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ka5oia80/t-shirt/q/z/u/m-4070-m-fastcolors-original-imafrsfhkupgcquc.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCN5VTZCQZUJIBDJR",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1666,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "333.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 333
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": {
+                                "type": "FormattedMessageValue",
+                                "data": [
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "Or Pay "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "₹316 + "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedImageData",
+                                        "value": {
+                                            "type": "ImageValue",
+                                            "aspectRatio": "1:1",
+                                            "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/18/07/2019/4aebbd99-7478-411e-aced-265e7722d18d.png?q={@quality}",
+                                            "height": 0,
+                                            "width": 0
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": " 17"
+                                        }
+                                    }
+                                ]
+                            },
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 83,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "333.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 333
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 83
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCN5VTZCQZU&lid=LSTTSHFDNCN5VTZCQZUJIBDJR&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCN5VTZCQZU&lid=LSTTSHFDNCN5VTZCQZUJIBDJR",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCN5VTZCQZU",
+                        "titles": {
+                            "coSubtitle": "Size: M",
+                            "newTitle": "Striped Men Round Neck White, Blue T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Blue T-Shirt"
+                        }
+                    },
+                    "TSHFJWAUMNG6Z9FP": {
+                        "attributeIndexes": [
+                            0,
+                            4
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/u/j/z/m-fc4118-fastcolors-original-imafnh2chgr45mhw.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/u/j/z/s-fc4118-fastcolors-original-imafpfx5knxkhyyt.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/u/j/z/s-fc4118-fastcolors-original-imafpfx52xpyuuhg.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/u/j/z/m-fc4118-fastcolors-original-imafnh2chphtx2r4.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAUMNG6Z9FPAGZJHQ",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-red-t-shirt/p/itm12d1a7f007229?pid=TSHFJWAUMNG6Z9FP&lid=LSTTSHFJWAUMNG6Z9FPAGZJHQ&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAUMNG6Z9FP&lid=LSTTSHFJWAUMNG6Z9FPAGZJHQ",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-red-t-shirt/p/itm12d1a7f007229?pid=TSHFJWAUMNG6Z9FP",
+                        "titles": {
+                            "coSubtitle": "Size: XXL",
+                            "newTitle": "Striped Men Round Neck Red T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Red T-Shirt"
+                        }
+                    },
+                    "TSHFJWAUPWKUXYEH": {
+                        "attributeIndexes": [
+                            3,
+                            3
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cwgzattht.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cef9br7mv.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/n/9/e/s-fc4119-fastcolors-original-imafpfx5wkzekxzq.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/l-fc4119-fastcolors-original-imafnh2car33atee.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAUPWKUXYEHHK8IHA",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUPWKUXYEH&lid=LSTTSHFJWAUPWKUXYEHHK8IHA&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAUPWKUXYEH&lid=LSTTSHFJWAUPWKUXYEHHK8IHA",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUPWKUXYEH",
+                        "titles": {
+                            "coSubtitle": "Size: XL",
+                            "newTitle": "Striped Men Round Neck Yellow T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Yellow T-Shirt"
+                        }
+                    },
+                    "TSHFJWAUJ7G88QZF": {
+                        "attributeIndexes": [
+                            3,
+                            2
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cwgzattht.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cef9br7mv.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/n/9/e/s-fc4119-fastcolors-original-imafpfx5wkzekxzq.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/l-fc4119-fastcolors-original-imafnh2car33atee.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAUJ7G88QZF3C2GYO",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUJ7G88QZF&lid=LSTTSHFJWAUJ7G88QZF3C2GYO&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAUJ7G88QZF&lid=LSTTSHFJWAUJ7G88QZF3C2GYO",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUJ7G88QZF",
+                        "titles": {
+                            "coSubtitle": "Size: L",
+                            "newTitle": "Striped Men Round Neck Yellow T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Yellow T-Shirt"
+                        }
+                    },
+                    "TSHFGNCT4X9HZZNZ": {
+                        "attributeIndexes": [
+                            2,
+                            2
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnsuv6yy8g.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fnkykdjdqj.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fn4ez2ft4x.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k3dc7m80/t-shirt/6/a/y/xxl-4071-xxl-1-fastcolors-original-imafgzvgqsejyfug.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFGNCT4X9HZZNZEUV6YU",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFGNCT4X9HZZNZ&lid=LSTTSHFGNCT4X9HZZNZEUV6YU&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFGNCT4X9HZZNZ&lid=LSTTSHFGNCT4X9HZZNZEUV6YU",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFGNCT4X9HZZNZ",
+                        "titles": {
+                            "coSubtitle": "Size: L",
+                            "newTitle": "Striped Men Round Neck White, Maroon T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Maroon T-Shirt"
+                        }
+                    },
+                    "TSHFKYKQZYAEQ6AY": {
+                        "attributeIndexes": [
+                            2,
+                            4
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnsuv6yy8g.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fnkykdjdqj.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/s-fc4071-fastcolors-original-imafq9fnp6cytcry.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k868how0/t-shirt/f/u/h/l-fc4071-fastcolors-original-imafq9fn4ez2ft4x.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k3dc7m80/t-shirt/6/a/y/xxl-4071-xxl-1-fastcolors-original-imafgzvgqsejyfug.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFKYKQZYAEQ6AY2O8IXJ",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1666,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "333.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 333
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": {
+                                "type": "FormattedMessageValue",
+                                "data": [
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "Or Pay "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "₹316 + "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedImageData",
+                                        "value": {
+                                            "type": "ImageValue",
+                                            "aspectRatio": "1:1",
+                                            "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/18/07/2019/4aebbd99-7478-411e-aced-265e7722d18d.png?q={@quality}",
+                                            "height": 0,
+                                            "width": 0
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": " 17"
+                                        }
+                                    }
+                                ]
+                            },
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 83,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "333.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 333
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 83
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFKYKQZYAEQ6AY&lid=LSTTSHFKYKQZYAEQ6AY2O8IXJ&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFKYKQZYAEQ6AY&lid=LSTTSHFKYKQZYAEQ6AY2O8IXJ",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-maroon-t-shirt/p/itm1aa29174ac81d?pid=TSHFKYKQZYAEQ6AY",
+                        "titles": {
+                            "coSubtitle": "Size: XXL",
+                            "newTitle": "Striped Men Round Neck White, Maroon T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Maroon T-Shirt"
+                        }
+                    },
+                    "TSHFE2WSNJA6GMJH": {
+                        "attributeIndexes": [
+                            1,
+                            4
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/u/t/p/l-4070-l-fastcolors-original-imafnyyhnvgyvbwu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh5hzuzuns.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhmerhfvyu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhv7gzaqd6.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ka5oia80/t-shirt/q/z/u/m-4070-m-fastcolors-original-imafrsfhkupgcquc.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFE2WSNJA6GMJHBRYKEO",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1640,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "359.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 359
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 82,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "359.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 359
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 82
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFE2WSNJA6GMJH&lid=LSTTSHFE2WSNJA6GMJHBRYKEO&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFE2WSNJA6GMJH&lid=LSTTSHFE2WSNJA6GMJHBRYKEO",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFE2WSNJA6GMJH",
+                        "titles": {
+                            "coSubtitle": "Size: XXL",
+                            "newTitle": "Striped Men Round Neck White, Blue T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Blue T-Shirt"
+                        }
+                    },
+                    "TSHFJWAUHYHC4UJZ": {
+                        "attributeIndexes": [
+                            0,
+                            2
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/u/j/z/m-fc4118-fastcolors-original-imafnh2chgr45mhw.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/u/j/z/s-fc4118-fastcolors-original-imafpfx5knxkhyyt.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/u/j/z/s-fc4118-fastcolors-original-imafpfx52xpyuuhg.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/u/j/z/m-fc4118-fastcolors-original-imafnh2chphtx2r4.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAUHYHC4UJZGDB0HW",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": {
+                                "type": "FormattedMessageValue",
+                                "data": [
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "Or Pay "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "₹380 + "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedImageData",
+                                        "value": {
+                                            "type": "ImageValue",
+                                            "aspectRatio": "1:1",
+                                            "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/18/07/2019/4aebbd99-7478-411e-aced-265e7722d18d.png?q={@quality}",
+                                            "height": 0,
+                                            "width": 0
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": " 21"
+                                        }
+                                    }
+                                ]
+                            },
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-red-t-shirt/p/itm12d1a7f007229?pid=TSHFJWAUHYHC4UJZ&lid=LSTTSHFJWAUHYHC4UJZGDB0HW&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAUHYHC4UJZ&lid=LSTTSHFJWAUHYHC4UJZGDB0HW",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-red-t-shirt/p/itm12d1a7f007229?pid=TSHFJWAUHYHC4UJZ",
+                        "titles": {
+                            "coSubtitle": "Size: L",
+                            "newTitle": "Striped Men Round Neck Red T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Red T-Shirt"
+                        }
+                    },
+                    "TSHFDNCNUZF7XGAV": {
+                        "attributeIndexes": [
+                            1,
+                            0
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/u/t/p/l-4070-l-fastcolors-original-imafnyyhnvgyvbwu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh5hzuzuns.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhmerhfvyu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhv7gzaqd6.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ka5oia80/t-shirt/q/z/u/m-4070-m-fastcolors-original-imafrsfhkupgcquc.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCNUZF7XGAV3BWFMO",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNUZF7XGAV&lid=LSTTSHFDNCNUZF7XGAV3BWFMO&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCNUZF7XGAV&lid=LSTTSHFDNCNUZF7XGAV3BWFMO",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNUZF7XGAV",
+                        "titles": {
+                            "coSubtitle": "Size: S",
+                            "newTitle": "Striped Men Round Neck White, Blue T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Blue T-Shirt"
+                        }
+                    },
+                    "TSHFJWAU4KMUTN9E": {
+                        "attributeIndexes": [
+                            3,
+                            0
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cwgzattht.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cef9br7mv.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/n/9/e/s-fc4119-fastcolors-original-imafpfx5wkzekxzq.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/l-fc4119-fastcolors-original-imafnh2car33atee.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAU4KMUTN9EK26EBW",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAU4KMUTN9E&lid=LSTTSHFJWAU4KMUTN9EK26EBW&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAU4KMUTN9E&lid=LSTTSHFJWAU4KMUTN9EK26EBW",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAU4KMUTN9E",
+                        "titles": {
+                            "coSubtitle": "Size: S",
+                            "newTitle": "Striped Men Round Neck Yellow T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Yellow T-Shirt"
+                        }
+                    },
+                    "TSHFJWAUHCB9QEMY": {
+                        "attributeIndexes": [
+                            3,
+                            1
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cwgzattht.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/xxl-fc4119-fastcolors-original-imafnh2cef9br7mv.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k7531jk0/t-shirt/n/9/e/s-fc4119-fastcolors-original-imafpfx5wkzekxzq.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4lmv0w0/t-shirt/n/9/e/l-fc4119-fastcolors-original-imafnh2car33atee.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFJWAUHCB9QEMYBQY4P8",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": {
+                                "type": "FormattedMessageValue",
+                                "data": [
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "Or Pay "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": "₹380 + "
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedImageData",
+                                        "value": {
+                                            "type": "ImageValue",
+                                            "aspectRatio": "1:1",
+                                            "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/18/07/2019/4aebbd99-7478-411e-aced-265e7722d18d.png?q={@quality}",
+                                            "height": 0,
+                                            "width": 0
+                                        }
+                                    },
+                                    {
+                                        "type": "FormattedRichTextData",
+                                        "value": {
+                                            "type": "RichTextValue",
+                                            "text": " 21"
+                                        }
+                                    }
+                                ]
+                            },
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUHCB9QEMY&lid=LSTTSHFJWAUHCB9QEMYBQY4P8&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFJWAUHCB9QEMY&lid=LSTTSHFJWAUHCB9QEMYBQY4P8",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-yellow-t-shirt/p/itm8bc76b4467977?pid=TSHFJWAUHCB9QEMY",
+                        "titles": {
+                            "coSubtitle": "Size: M",
+                            "newTitle": "Striped Men Round Neck Yellow T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck Yellow T-Shirt"
+                        }
+                    },
+                    "TSHFDNCNDTZYPPBW": {
+                        "attributeIndexes": [
+                            1,
+                            3
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/u/t/p/l-4070-l-fastcolors-original-imafnyyhnvgyvbwu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh5hzuzuns.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhmerhfvyu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhv7gzaqd6.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ka5oia80/t-shirt/q/z/u/m-4070-m-fastcolors-original-imafrsfhkupgcquc.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCNDTZYPPBWIU5HPL",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNDTZYPPBW&lid=LSTTSHFDNCNDTZYPPBWIU5HPL&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCNDTZYPPBW&lid=LSTTSHFDNCNDTZYPPBWIU5HPL",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNDTZYPPBW",
+                        "titles": {
+                            "coSubtitle": "Size: XL",
+                            "newTitle": "Striped Men Round Neck White, Blue T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Blue T-Shirt"
+                        }
+                    },
+                    "TSHFDNCNYGCRBUTP": {
+                        "attributeIndexes": [
+                            1,
+                            2
+                        ],
+                        "available": true,
+                        "grade": {
+                            "color": null,
+                            "id": null,
+                            "name": null,
+                            "shortDesc": null
+                        },
+                        "images": [
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh8cvzbyep.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/u/t/p/l-4070-l-fastcolors-original-imafnyyhnvgyvbwu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyh5hzuzuns.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhmerhfvyu.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k40798w0/t-shirt/m/j/h/xxl-4070-xxl-fastcolors-original-imafnyyhv7gzaqd6.jpeg?q={@quality}",
+                                "width": null
+                            },
+                            {
+                                "aspectRatio": "5:6",
+                                "contentInfo": null,
+                                "height": null,
+                                "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ka5oia80/t-shirt/q/z/u/m-4070-m-fastcolors-original-imafrsfhkupgcquc.jpeg?q={@quality}",
+                                "width": null
+                            }
+                        ],
+                        "listingId": "LSTTSHFDNCNYGCRBUTP4MJZNS",
+                        "pricing": {
+                            "type": "ListingPriceValue",
+                            "deliveryCharge": null,
+                            "discountAmount": 1598,
+                            "extraDiscount": null,
+                            "finalPrice": {
+                                "additionalText": null,
+                                "currency": "INR",
+                                "decimalValue": "401.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Total",
+                                "priceType": null,
+                                "strikeOff": false,
+                                "value": 401
+                            },
+                            "finalSavingsText": null,
+                            "knowMore": null,
+                            "mrp": {
+                                "additionalText": "(incl. of all taxes)",
+                                "currency": "INR",
+                                "decimalValue": "1999.00",
+                                "discount": null,
+                                "downpaymentRate": 0,
+                                "downpaymentRequired": false,
+                                "name": "Maximum Retail Price",
+                                "priceType": null,
+                                "strikeOff": true,
+                                "value": 1999
+                            },
+                            "partPriceInfo": null,
+                            "plusPriceInfo": null,
+                            "priceDescriptions": null,
+                            "pricePerUnit": null,
+                            "priceTags": null,
+                            "prices": [
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "1999.00",
+                                    "discount": 79,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Selling Price",
+                                    "priceType": "FSP",
+                                    "strikeOff": true,
+                                    "value": 1999
+                                },
+                                {
+                                    "additionalText": null,
+                                    "currency": "INR",
+                                    "decimalValue": "401.00",
+                                    "discount": null,
+                                    "downpaymentRate": 0,
+                                    "downpaymentRequired": false,
+                                    "name": "Special Price",
+                                    "priceType": "SPECIAL_PRICE",
+                                    "strikeOff": false,
+                                    "value": 401
+                                }
+                            ],
+                            "showDiscountAsAmount": false,
+                            "totalDiscount": 79
+                        },
+                        "productUrl": "/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNYGCRBUTP&lid=LSTTSHFDNCNYGCRBUTP4MJZNS&marketplace=FLIPKART",
+                        "quickViewUrl": "/quick-view?pid=TSHFDNCNYGCRBUTP&lid=LSTTSHFDNCNYGCRBUTP4MJZNS",
+                        "smartUrl": "https://dl.flipkart.com/dl/fastcolors-striped-men-round-neck-white-blue-t-shirt/p/itmb29a4b7ebf167?pid=TSHFDNCNYGCRBUTP",
+                        "titles": {
+                            "coSubtitle": "Size: L",
+                            "newTitle": "Striped Men Round Neck White, Blue T-Shirt",
+                            "superTitle": "FastColors",
+                            "title": "FastColors Striped Men Round Neck White, Blue T-Shirt"
+                        }
+                    }
+                },
+                "tooltips": [
+                    {
+                        "emoji": "💡",
+                        "key": "Tip"
+                    },
+                    {
+                        "emoji": "💡",
+                        "key": "Tip",
+                        "text": "Refer Size Chart and buy according to your size requirement"
+                    }
+                ]
+            }
+        }
+    },
+    "SESSION": {
+        "accountId": null,
+        "asn": null,
+        "email": null,
+        "firstName": null,
+        "flipkartFirstUser": false,
+        "isLoggedIn": false,
+        "lastName": null,
+        "nsid": "3.SIFD1464F61DD94DFC935EBE79A2B14326.1592044381373.VIC9F8883BC4D54ADC8AA9162B393D0FCF",
+        "secureToken": "SIFD1464F61DD94DFC935EBE79A2B14326:VIC9F8883BC4D54ADC8AA9162B393D0FCF",
+        "sn": "VIC9F8883BC4D54ADC8AA9162B393D0FCF.TOKE0005012E057455FA458730159BF67ED.1592044381.LO",
+        "ts": 0,
+        "twoFa": false,
+        "vid": "VIC9F8883BC4D54ADC8AA9162B393D0FCF"
+    },
+    "STATUS_CODE": 200
+}

@@ -1,0 +1,33 @@
+# Byte-compiled/ optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.cache
+
+# Scrapy stuff
+.scrapy
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Env
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Media
+*.mp4
+
+# Compressed
+*.zip
