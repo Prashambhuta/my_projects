@@ -46,14 +46,6 @@ https://www.flipkart.com/men/tshirts/pr?sid=2oq%2Cs9b%2Cj9y&otracker=nmenu_sub_M
         * [scraping_image_links](issues/scraping_image_links.md)
     * requirements.txt - libraries required. Use `pip install -r requirements.txt` to install.
 
-## Solution
-
-* You can connect to the database using the following URI:
-    ```py
-    'mongodb+srv://new_user:mongoDB123@greendeck-1-hnozk.mongodb.net/greendeck-1?retryWrites=true&w=majority'
-    ```
-* Check out the project demo, [here.](demo.mp4) **FAST FORWARD IT**
-
 ### Approach
 Following steps underline the approach to the solution.
 
@@ -70,9 +62,6 @@ Following steps underline the approach to the solution.
 * `/spiders/flipkart_men_tshirt.py` - collecting data using css selector and storing that data as a type of `Field`.
 * `/pipelines.py` - receives the items, processes/filters it and returns the items.
 * `/settings.py` - helps defining project variables such as `MONGO_URI, MONGO_DATBASE, FEED_URI...`
-
-### Breakdown
-* The breakdown of the task can be seen below, with majority of time taken by setting up, scraping the first page, and reading the documentation/tutorial.
 
 ## Challenges
 * Unable to scrap image links.
