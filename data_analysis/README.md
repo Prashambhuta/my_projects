@@ -10,6 +10,7 @@
 1. [EDA of titanic dataset in R](titanic_survival)
 1. [EDA of cereals dataset](cereal)
 1. [Quick EDA of climate change datas in 'dslabs' in R](climate_change)
+11. [EDA of Malnutrition for various countries](malnutrition)
 
 ## Other
 1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
