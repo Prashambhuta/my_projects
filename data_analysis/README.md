@@ -11,6 +11,7 @@
 1. [EDA of cereals dataset](cereal)
 1. [Quick EDA of climate change datas in 'dslabs' in R](climate_change)
 11. [EDA of Malnutrition for various countries](malnutrition)
+12. [EDA + Time Series Analysis of WW2 bombings](ww2_weather)
 
 ## Other
 1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
