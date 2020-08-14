@@ -15,3 +15,5 @@
 
 ## Other
 1. US murders across state filtered by their region. [Report](other/US_murders.pdf)
+2. Insurance analysis using death_prob, the aim is to calculate premiums and probability of losing money on `n` numbers of policies. [Report](other/insurance_company.pdf)
+
