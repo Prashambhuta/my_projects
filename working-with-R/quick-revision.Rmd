@@ -1,0 +1,40 @@
+---
+title: "project-demo"
+author: "Prasham Bhuta"
+date: "6/28/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## using contour, heatmap plots
+
+This is a quick recap to produce contours, heatmap and other highlevel plots.
+
+```{r cars}
+x = seq(-pi, pi, length=50)
+```
+
+## Including Plots
+
+First lets try contour plots
+
+```{r contour, echo=FALSE}
+y=x
+f=outer(x,y,function(x,y)cos(y)/(1+x^2))
+contour(x,y,f)
+#contour(x,y,f,nlevels = 45, add=T)
+fa=(f-t(f))/2
+contour(x,y,fa,nlevels=15)
+```
+
+Using image() and persp() to plot 3D plots.
+```{r}
+image(x,y,fa)
+```
+
+```{r}
+persp(x,y,fa, theta = 30, phi=70)
+```
